@@ -1,0 +1,13 @@
+{
+  "foundUser": {
+    "_id": "6517dba706c84df0bf684f67",
+    "name": "benzema",
+    "email": "benzema@gmail.com",
+    "password": "$2a$10$T4pQjCPNp00zgi9uC//xMOxb7sR5WKQ.tZL9lI8nOm4qWSLVYxqi.",
+    "posts": [],
+    "createdAt": "2023-09-30T08:26:15.046Z",
+    "updatedAt": "2023-09-30T08:26:15.046Z",
+    "__v": 0
+  },
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNjUxN2RiYTcwNmM4NGRmMGJmNjg0ZjY3IiwiaWF0IjoxNjk2NTg0MzM1LCJleHAiOjE2OTY4NDM1MzV9.KuDZ6nE2TpcpYKkUFklD6WzVOhEAyib-oGDjSFYnGqE"
+}

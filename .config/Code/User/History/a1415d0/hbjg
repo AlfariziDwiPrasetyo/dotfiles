@@ -1,0 +1,5 @@
+MONGO_URI = "mongodb+srv://yoerdanatan:CNv97zC3!LYSaNb@blogapp.coaqzo5.mongodb.net/KonichiNotes?retryWrites=true&w=majority"
+KEY_TOKEN = "5303325533"
+CLOUDINARY_NAME = "dpilobwsf"
+CLOUDINARY_API_KEY = "525674448659486"
+CLOUDINARY_API_SECRET = "1iW2nUVfrM27sjFzgS81Gc9q1Fw"

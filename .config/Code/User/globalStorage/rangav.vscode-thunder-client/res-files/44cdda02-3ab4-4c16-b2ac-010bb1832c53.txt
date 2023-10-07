@@ -1,0 +1,13 @@
+{
+  "foundUser": {
+    "_id": "651fd56f6f9e025cec395ca1",
+    "name": "kafka",
+    "email": "kafka@gmail.com",
+    "password": "$2a$10$yvmuPAAjzf7wcjoe1JX3JOd0hMyo3FuAHgn5kq1qv/mOJ41uzsBGi",
+    "posts": [],
+    "createdAt": "2023-10-06T09:37:51.674Z",
+    "updatedAt": "2023-10-06T09:37:51.674Z",
+    "__v": 0
+  },
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNjUxZmQ1NmY2ZjllMDI1Y2VjMzk1Y2ExIiwiaWF0IjoxNjk2NTg1MDg1LCJleHAiOjE2OTY4NDQyODV9.MjHT65fkFx_-wJB6BMVOmhBRRy0CeyJV4DsQ1in1YiM"
+}

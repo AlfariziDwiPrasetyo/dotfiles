@@ -1,0 +1,15 @@
+2023-10-07 14:51:11.677 [info] Getting Manifest... pkief.material-icon-theme
+2023-10-07 14:51:12.597 [info] Installing extension: pkief.material-icon-theme
+2023-10-07 14:51:14.903 [info] Extension signature is verified: pkief.material-icon-theme
+2023-10-07 14:51:15.351 [info] Extracted extension to file:///home/alfarizi/.vscode/extensions/pkief.material-icon-theme-4.31.0: pkief.material-icon-theme
+2023-10-07 14:51:15.361 [info] Renamed to /home/alfarizi/.vscode/extensions/pkief.material-icon-theme-4.31.0
+2023-10-07 14:51:15.363 [info] Extracting extension completed. pkief.material-icon-theme
+2023-10-07 14:51:15.375 [info] Extension installed successfully: pkief.material-icon-theme
+2023-10-07 14:51:15.380 [info] Marked extension as uninstalled pkief.material-icon-theme-4.30.1
+2023-10-07 14:51:15.452 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/alfarizi/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/alfarizi/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.eb (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35625)
+    at t.stat (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)

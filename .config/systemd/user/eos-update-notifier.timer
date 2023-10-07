@@ -1,0 +1,11 @@
+[Unit]
+Description=Runs EOS update notifier runs periodically.
+
+[Timer]
+# OnStartupSec=
+OnCalendar=weekly
+Persistent=false
+RandomizedDelaySec=10min
+ 
+[Install]
+WantedBy=timers.target

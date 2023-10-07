@@ -1,0 +1,15 @@
+2023-10-06 00:22:42.396 [info] Getting Manifest... enkia.tokyo-night
+2023-10-06 00:22:43.120 [info] Installing extension: enkia.tokyo-night
+2023-10-06 00:22:46.576 [info] Extension signature is verified: enkia.tokyo-night
+2023-10-06 00:22:46.608 [info] Extracted extension to file:///home/alfarizi/.vscode/extensions/enkia.tokyo-night-1.0.4: enkia.tokyo-night
+2023-10-06 00:22:46.616 [info] Renamed to /home/alfarizi/.vscode/extensions/enkia.tokyo-night-1.0.4
+2023-10-06 00:22:46.617 [info] Extracting extension completed. enkia.tokyo-night
+2023-10-06 00:22:46.633 [info] Extension installed successfully: enkia.tokyo-night
+2023-10-06 00:22:46.642 [info] Marked extension as uninstalled enkia.tokyo-night-1.0.3
+2023-10-06 00:22:46.703 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/alfarizi/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/alfarizi/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.eb (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35625)
+    at t.stat (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)

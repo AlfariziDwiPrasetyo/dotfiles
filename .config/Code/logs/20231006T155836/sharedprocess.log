@@ -1,0 +1,20 @@
+2023-10-06 15:58:39.425 [info] Deleted uninstalled extension from disk enkia.tokyo-night /home/alfarizi/.vscode/extensions/enkia.tokyo-night-1.0.3
+2023-10-06 15:58:39.441 [error] Error: Unable to resolve nonexistent file '/home/alfarizi/.vscode/extensions/enkia.tokyo-night-1.0.3.-70749364.vsctmp'
+    at w.resolve (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:14158)
+    at async H.F (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:15244)
+    at async H.scanUserExtensionAtLocation (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:11348)
+    at async Q.tb (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9566)
+2023-10-06 16:21:56.229 [info] Getting Manifest... rangav.vscode-thunder-client
+2023-10-06 16:21:56.278 [info] Installing extension: rangav.vscode-thunder-client
+2023-10-06 16:22:00.041 [info] Extension signature is verified: rangav.vscode-thunder-client
+2023-10-06 16:22:00.111 [info] Extracted extension to file:///home/alfarizi/.vscode/extensions/rangav.vscode-thunder-client-2.12.7: rangav.vscode-thunder-client
+2023-10-06 16:22:00.119 [info] Renamed to /home/alfarizi/.vscode/extensions/rangav.vscode-thunder-client-2.12.7
+2023-10-06 16:22:00.120 [info] Extracting extension completed. rangav.vscode-thunder-client
+2023-10-06 16:22:00.135 [info] Extension installed successfully: rangav.vscode-thunder-client
+2023-10-06 16:22:00.209 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/alfarizi/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/alfarizi/.vscode/extensions/extensions.json.vsctmp'
+    at s.create (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30209)
+    at i (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30329)
+    at t.eb (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:35625)
+    at t.stat (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28201)
+    at async w.stat (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15579)
+    at async Q.tb (/var/lib/snapd/snap/code/142/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:9514)

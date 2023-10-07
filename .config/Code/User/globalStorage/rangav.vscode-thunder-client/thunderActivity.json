@@ -1,0 +1,21 @@
+[
+    {
+        "_id": "e1bbe2a0-7571-441c-ad1e-92ca2bcf157a",
+        "colId": "history",
+        "containerId": "",
+        "name": "localhost:3000/api/v1/user/login",
+        "url": "localhost:3000/api/v1/user/login",
+        "method": "POST",
+        "sortNum": 0,
+        "created": "2023-10-06T09:25:13.466Z",
+        "modified": "2023-10-06T09:25:13.466Z",
+        "headers": [],
+        "params": [],
+        "body": {
+            "type": "json",
+            "raw": "{\n  \"email\":\"benzema@gmail.com\",\n  \"password\":\"benzema123\"\n}",
+            "form": []
+        },
+        "tests": []
+    }
+]

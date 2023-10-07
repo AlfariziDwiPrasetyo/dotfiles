@@ -1,0 +1,63 @@
+2023-10-07 14:51:01.731 [info] Log level: Info
+2023-10-07 14:51:01.731 [info] Validating found git in: "git"
+2023-10-07 14:51:01.731 [info] Using git "2.42.0" from "git"
+2023-10-07 14:51:01.731 [info] > git rev-parse --show-toplevel [9ms]
+2023-10-07 14:51:01.731 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 14:51:01.957 [info] > git rev-parse --show-toplevel [19ms]
+2023-10-07 14:51:01.957 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 14:51:03.825 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-07 14:51:03.825 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 15:16:44.963 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-07 15:16:44.963 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 15:16:49.127 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-07 15:16:49.127 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-07 15:24:29.438 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-07 15:24:29.446 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-10-07 15:24:29.460 [info] Open repository: /home/alfarizi/coding/learn/learn-react/learning-react
+2023-10-07 15:24:29.480 [info] No remotes found in the git config file.
+2023-10-07 15:24:29.483 [info] > git config --get commit.template [14ms]
+2023-10-07 15:24:29.487 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-10-07 15:24:29.498 [info] > git status -z -uall [5ms]
+2023-10-07 15:24:29.527 [info] No remotes found in the git config file.
+2023-10-07 15:24:29.534 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2023-10-07 15:24:29.535 [info] > git config --get commit.template [15ms]
+2023-10-07 15:24:29.546 [info] > git status -z -uall [3ms]
+2023-10-07 15:24:29.994 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-07 15:24:34.584 [info] > git check-ignore -v -z --stdin [5ms]
+2023-10-07 15:24:36.505 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-07 15:24:38.202 [info] > git show --textconv :src/App.js [22ms]
+2023-10-07 15:24:38.208 [info] > git ls-files --stage -- /home/alfarizi/coding/learn/learn-react/learning-react/src/App.js [6ms]
+2023-10-07 15:24:42.478 [info] > git show --textconv :src/index.js [19ms]
+2023-10-07 15:24:42.488 [info] > git ls-files --stage -- /home/alfarizi/coding/learn/learn-react/learning-react/src/index.js [13ms]
+2023-10-07 15:24:42.829 [info] No remotes found in the git config file.
+2023-10-07 15:24:42.831 [info] > git config --get commit.template [43ms]
+2023-10-07 15:24:42.839 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2023-10-07 15:24:42.888 [info] > git status -z -uall [12ms]
+2023-10-07 15:24:46.029 [info] > git show --textconv :src/App.css [19ms]
+2023-10-07 15:24:46.036 [info] > git ls-files --stage -- /home/alfarizi/coding/learn/learn-react/learning-react/src/App.css [8ms]
+2023-10-07 15:26:10.407 [info] No remotes found in the git config file.
+2023-10-07 15:26:10.417 [info] > git config --get commit.template [10ms]
+2023-10-07 15:26:10.419 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2023-10-07 15:26:10.426 [info] > git status -z -uall [3ms]
+2023-10-07 15:28:52.506 [info] > git show --textconv :package.json [32ms]
+2023-10-07 15:28:52.510 [info] > git ls-files --stage -- /home/alfarizi/coding/learn/learn-react/learning-react/package.json [4ms]
+2023-10-07 15:29:17.371 [info] No remotes found in the git config file.
+2023-10-07 15:29:17.372 [info] > git config --get commit.template [13ms]
+2023-10-07 15:29:17.373 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-10-07 15:29:17.381 [info] > git status -z -uall [2ms]
+2023-10-07 15:29:17.879 [info] > git show --textconv :src/index.js [14ms]
+2023-10-07 15:29:17.885 [info] > git ls-files --stage -- /home/alfarizi/coding/learn/learn-react/learning-react/src/index.js [7ms]
+2023-10-07 15:29:23.212 [info] > git show --textconv :src/App.js [14ms]
+2023-10-07 15:29:23.217 [info] > git ls-files --stage -- /home/alfarizi/coding/learn/learn-react/learning-react/src/App.js [7ms]
+2023-10-07 15:29:42.971 [info] > git show --textconv :src/index.css [13ms]
+2023-10-07 15:29:42.974 [info] > git ls-files --stage -- /home/alfarizi/coding/learn/learn-react/learning-react/src/index.css [4ms]
+2023-10-07 15:29:45.047 [info] > git show --textconv :src/App.js [21ms]
+2023-10-07 15:29:45.055 [info] > git ls-files --stage -- /home/alfarizi/coding/learn/learn-react/learning-react/src/App.js [8ms]
+2023-10-07 15:29:51.863 [info] > git show --textconv :src/index.js [13ms]
+2023-10-07 15:29:51.866 [info] > git ls-files --stage -- /home/alfarizi/coding/learn/learn-react/learning-react/src/index.js [4ms]
+2023-10-07 15:29:56.044 [info] > git show --textconv :src/App.js [14ms]
+2023-10-07 15:29:56.049 [info] > git ls-files --stage -- /home/alfarizi/coding/learn/learn-react/learning-react/src/App.js [6ms]
+2023-10-07 15:31:49.888 [info] No remotes found in the git config file.
+2023-10-07 15:31:49.889 [info] > git config --get commit.template [9ms]
+2023-10-07 15:31:49.890 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-07 15:31:49.897 [info] > git status -z -uall [2ms]

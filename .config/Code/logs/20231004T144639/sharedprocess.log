@@ -1,0 +1,31 @@
+2023-10-04 14:46:41.832 [info] Started initializing default profile extensions in extensions installation folder. file:///home/alfarizi/.vscode/extensions
+2023-10-04 14:46:42.060 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/alfarizi/.vscode/extensions Unable to create file 'vscode-userdata:/home/alfarizi/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-10-04 14:46:42.061 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/alfarizi/.vscode/extensions
+2023-10-04 14:48:45.675 [info] Getting Manifest... enkia.tokyo-night
+2023-10-04 14:48:45.681 [info] Installing extension: enkia.tokyo-night
+2023-10-04 14:48:48.601 [info] Extension signature is verified: enkia.tokyo-night
+2023-10-04 14:48:48.635 [info] Extracted extension to file:///home/alfarizi/.vscode/extensions/enkia.tokyo-night-1.0.3: enkia.tokyo-night
+2023-10-04 14:48:48.646 [info] Renamed to /home/alfarizi/.vscode/extensions/enkia.tokyo-night-1.0.3
+2023-10-04 14:48:48.647 [info] Extracting extension completed. enkia.tokyo-night
+2023-10-04 14:48:48.660 [info] Extension installed successfully: enkia.tokyo-night
+2023-10-04 14:49:09.976 [info] Getting Manifest... pkief.material-icon-theme
+2023-10-04 14:49:09.993 [info] Installing extension: pkief.material-icon-theme
+2023-10-04 14:49:12.396 [info] Extension signature is verified: pkief.material-icon-theme
+2023-10-04 14:49:13.018 [info] Extracted extension to file:///home/alfarizi/.vscode/extensions/pkief.material-icon-theme-4.30.1: pkief.material-icon-theme
+2023-10-04 14:49:13.027 [info] Renamed to /home/alfarizi/.vscode/extensions/pkief.material-icon-theme-4.30.1
+2023-10-04 14:49:13.029 [info] Extracting extension completed. pkief.material-icon-theme
+2023-10-04 14:49:13.041 [info] Extension installed successfully: pkief.material-icon-theme
+2023-10-04 14:49:27.653 [info] Getting Manifest... digitalbrainstem.javascript-ejs-support
+2023-10-04 14:49:27.660 [info] Installing extension: digitalbrainstem.javascript-ejs-support
+2023-10-04 14:49:28.875 [info] Extension signature is verified: digitalbrainstem.javascript-ejs-support
+2023-10-04 14:49:28.882 [info] Extracted extension to file:///home/alfarizi/.vscode/extensions/digitalbrainstem.javascript-ejs-support-1.3.3: digitalbrainstem.javascript-ejs-support
+2023-10-04 14:49:28.891 [info] Renamed to /home/alfarizi/.vscode/extensions/digitalbrainstem.javascript-ejs-support-1.3.3
+2023-10-04 14:49:28.893 [info] Extracting extension completed. digitalbrainstem.javascript-ejs-support
+2023-10-04 14:49:28.904 [info] Extension installed successfully: digitalbrainstem.javascript-ejs-support
+2023-10-04 14:49:36.816 [info] Getting Manifest... esbenp.prettier-vscode
+2023-10-04 14:49:36.826 [info] Installing extension: esbenp.prettier-vscode
+2023-10-04 14:49:40.483 [info] Extension signature is verified: esbenp.prettier-vscode
+2023-10-04 14:49:40.568 [info] Extracted extension to file:///home/alfarizi/.vscode/extensions/esbenp.prettier-vscode-10.1.0: esbenp.prettier-vscode
+2023-10-04 14:49:40.576 [info] Renamed to /home/alfarizi/.vscode/extensions/esbenp.prettier-vscode-10.1.0
+2023-10-04 14:49:40.580 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-10-04 14:49:40.595 [info] Extension installed successfully: esbenp.prettier-vscode

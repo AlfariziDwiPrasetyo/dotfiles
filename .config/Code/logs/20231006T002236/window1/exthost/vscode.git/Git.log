@@ -1,0 +1,23 @@
+2023-10-06 00:31:23.548 [info] Log level: Info
+2023-10-06 00:31:23.549 [info] Validating found git in: "git"
+2023-10-06 00:31:23.549 [info] Using git "2.42.0" from "git"
+2023-10-06 00:31:23.549 [info] > git rev-parse --show-toplevel [15ms]
+2023-10-06 00:31:23.549 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 00:31:23.550 [info] > git rev-parse --show-toplevel [11ms]
+2023-10-06 00:31:23.559 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-10-06 00:31:23.576 [info] Open repository: /home/alfarizi/coding/project/app
+2023-10-06 00:31:23.606 [info] > git config --get commit.template [18ms]
+2023-10-06 00:31:23.609 [info] > git rev-parse --show-toplevel [9ms]
+2023-10-06 00:31:23.609 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-06 00:31:23.621 [info] No remotes found in the git config file.
+2023-10-06 00:31:23.624 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-10-06 00:31:23.634 [info] > git status -z -uall [3ms]
+2023-10-06 00:31:23.652 [info] > git config --get commit.template [4ms]
+2023-10-06 00:31:23.668 [info] No remotes found in the git config file.
+2023-10-06 00:31:23.672 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-10-06 00:31:23.681 [info] > git status -z -uall [3ms]
+2023-10-06 00:31:24.031 [info] > git show --textconv :src/index.ts [15ms]
+2023-10-06 00:31:24.038 [info] > git ls-files --stage -- /home/alfarizi/coding/project/app/src/index.ts [7ms]
+2023-10-06 00:31:24.052 [info] > git cat-file -s 9c1f7a1e6f3c8aa794f96991a785d5c98e64a08e [4ms]
+2023-10-06 00:31:24.123 [info] > git check-ignore -v -z --stdin [6ms]
+2023-10-06 00:33:16.378 [info] > git check-ignore -v -z --stdin [7ms]

@@ -1,0 +1,127 @@
+Data loaded from the path - /home/alfarizi/.config/Code/User/globalStorage/rangav.vscode-thunder-client
+
+Settings Data:
+saveToWorkspace: undefined
+workspaceRelativePath: 
+multiRootWorkspaceName: 
+customLocation: undefined
+
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:3000/api/v1/user/login
+Method: POST
+Request Headers:
+{
+  "content-length": "60",
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+  "Content-Type": "application/json"
+}
+Request Body:
+{
+  "email":"benzema@gmail.com",
+  "password":"benzema123"
+}
+
+---------------- Running Request: ----------------
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:3000/api/v1/user/login
+Method: POST
+Request Headers:
+{
+  "content-length": "60",
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+  "Content-Type": "application/json"
+}
+Request Body:
+{
+  "email":"benzema@gmail.com",
+  "password":"benzema123"
+}
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:3000/api/v1/user/register
+Method: POST
+Request Headers:
+{
+  "content-length": "60",
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+  "Content-Type": "application/json"
+}
+Request Body:
+{
+  "email":"benzema@gmail.com",
+  "password":"benzema123"
+}
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:3000/api/v1/user/register
+Method: POST
+Request Headers:
+{
+  "content-length": "74",
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+  "Content-Type": "application/json"
+}
+Request Body:
+{
+  "name":"kafka",
+  "email":"kafka@gmail.com",
+  "password":"kafka123"
+}
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:3000/api/v1/user/register
+Method: POST
+Request Headers:
+{
+  "content-length": "74",
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+  "Content-Type": "application/json"
+}
+Request Body:
+{
+  "name":"kafka",
+  "email":"kafka@gmail.com",
+  "password":"kafka123"
+}
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:3000/api/v1/user/login
+Method: POST
+Request Headers:
+{
+  "content-length": "56",
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+  "Content-Type": "application/json"
+}
+Request Body:
+{
+  "email":"kafka@gmail.com",
+  "password":"kafka123"
+}
+
+---------------- Running Request: ----------------
+
+---------------- Running Request: ----------------
+Request Url: http://localhost:3000/api/v1/user/profile
+Method: GET
+Request Headers:
+{
+  "accept-encoding": "gzip, deflate, br",
+  "Accept": "*/*",
+  "User-Agent": "Thunder Client (https://www.thunderclient.com)",
+  "Authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiNjUxZmQ1NmY2ZjllMDI1Y2VjMzk1Y2ExIiwiaWF0IjoxNjk2NTg1MDg1LCJleHAiOjE2OTY4NDQyODV9.MjHT65fkFx_-wJB6BMVOmhBRRy0CeyJV4DsQ1in1YiM"
+}
